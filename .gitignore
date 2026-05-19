@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+
+# Local databases and vector stores
+users.db
+data/
+
+# IDEs and OS files
+.vscode/
+.idea/
+__MACOSX/
+.DS_Store
